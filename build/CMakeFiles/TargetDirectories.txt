@@ -1,0 +1,5 @@
+/home/zawhtetaung/github/elderly-robot-server/mqttBackend/node-ghk/build/CMakeFiles/prepare_iuhook.dir
+/home/zawhtetaung/github/elderly-robot-server/mqttBackend/node-ghk/build/CMakeFiles/edit_cache.dir
+/home/zawhtetaung/github/elderly-robot-server/mqttBackend/node-ghk/build/CMakeFiles/uiohook.dir
+/home/zawhtetaung/github/elderly-robot-server/mqttBackend/node-ghk/build/CMakeFiles/node-ghk.dir
+/home/zawhtetaung/github/elderly-robot-server/mqttBackend/node-ghk/build/CMakeFiles/rebuild_cache.dir

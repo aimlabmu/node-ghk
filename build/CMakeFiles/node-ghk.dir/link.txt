@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11 -O3 -DNDEBUG  -shared -Wl,-soname,node-ghk.node -o Release/node-ghk.node CMakeFiles/node-ghk.dir/src/node-ghk.cc.o libuiohook.a libuiohook.a -lxkbfile -lxkbcommon-x11 -lxkbcommon -lX11-xcb -lxcb -lXinerama -lXt -lXtst -lX11 
