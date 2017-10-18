@@ -13,7 +13,7 @@ class GHK extends events.EventEmitter {
   dispatch(msg) {
     if (this.status === 'paused') return;
     switch (msg.type) {
-      case 3:
+      case 5: // This is actually key released event, but chosen so as to avoid registering continuous press
         this.emit('keypress', msg);
         break;
       case 7:
