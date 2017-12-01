@@ -1,6 +1,6 @@
 {
   "name": "node-ghk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "global keyboard listener through libuiohook bindings",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "cmake-js": {
     "runtime": "node",
-    "runtimeVersion": "8.7.0"
+    "runtimeVersion": "8.9.1"
   },
   "repository": {
     "type": "github",
