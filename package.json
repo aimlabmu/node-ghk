@@ -20,7 +20,7 @@
   },
   "cmake-js": {
     "runtime": "node",
-    "runtimeVersion": "8.9.1"
+    "runtimeVersion": "8.9.4"
   },
   "repository": {
     "type": "github",
